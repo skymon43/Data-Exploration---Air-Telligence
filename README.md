@@ -1,5 +1,12 @@
 # Data-Exploration---Air-Telligence
 
+Gruppenmitglieder:
+  - Yannik Hubrich
+  - Philipp Becht
+  - Simon Wrigg
+
+
+
 Der hergestellte Code ist in der Entwicklungsumgebung „Google Colab“ geschrieben.
 
 https://colab.research.google.com/drive/15Hw7jYDc8pCHqjqqdPHJQ1ZnQxTsNHy7?hl=de#scrollTo=MnJBno6N7X_c
